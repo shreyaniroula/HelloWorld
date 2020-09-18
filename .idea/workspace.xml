@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f64bbce-2e39-4201-8ae2-075a0984d3f1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4f64bbce-2e39-4201-8ae2-075a0984d3f1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,6 +127,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="307" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1595439172818" />
+    <state x="395" y="82" key="MultipleFileMergeDialog" timestamp="1600444625338">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="395" y="82" key="MultipleFileMergeDialog/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1600444625338" />
     <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1595439176400">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

@@ -1,9 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4f64bbce-2e39-4201-8ae2-075a0984d3f1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/gitTestHelloWorld/branch2/Branch2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/gitTestHelloWorld/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gitTestHelloWorld/com/company/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +35,13 @@
       <executable />
     </execution>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -22,16 +49,21 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Problems" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.39617082" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.company" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -50,6 +82,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -114,34 +147,73 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="github.com added.." />
     <option name="LAST_COMMIT_MESSAGE" value="github.com added.." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="26" key="#Project_Structure" timestamp="1599593768406">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="256" y="23" key="#Project_Structure" timestamp="1607459916443">
+      <screen x="0" y="23" width="1280" height="730" />
     </state>
     <state x="275" y="26" key="#Project_Structure/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1599593768406" />
-    <state x="307" y="0" key="CommitChangelistDialog2" timestamp="1595439172818">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="256" y="23" key="#Project_Structure/0.23.1280.729@0.23.1280.729" timestamp="1607459679670" />
+    <state x="256" y="23" key="#Project_Structure/0.23.1280.730@0.23.1280.730" timestamp="1607459916443" />
+    <state x="0" y="51" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607459309693">
+      <screen x="0" y="23" width="1280" height="728" />
     </state>
-    <state x="307" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1595439172818" />
+    <state x="0" y="51" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.728@0.23.1280.728" timestamp="1607459309693" />
+    <state x="696" y="157" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607459725328">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="696" y="157" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.729@0.23.1280.729" timestamp="1607459725328" />
+    <state x="538" y="155" width="742" height="496" key="DiffContextDialog" timestamp="1607460857255">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="538" y="155" width="742" height="496" key="DiffContextDialog/0.23.1280.728@0.23.1280.728" timestamp="1607460857255" />
+    <state width="900" height="171" key="GridCell.Tab.0.bottom" timestamp="1607473803250">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state width="900" height="171" key="GridCell.Tab.0.bottom/0.23.1280.729@0.23.1280.729" timestamp="1607459691415" />
+    <state width="900" height="171" key="GridCell.Tab.0.bottom/0.23.1280.730@0.23.1280.730" timestamp="1607473803250" />
+    <state width="900" height="171" key="GridCell.Tab.0.center" timestamp="1607473803248">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state width="900" height="171" key="GridCell.Tab.0.center/0.23.1280.729@0.23.1280.729" timestamp="1607459691412" />
+    <state width="900" height="171" key="GridCell.Tab.0.center/0.23.1280.730@0.23.1280.730" timestamp="1607473803248" />
+    <state width="900" height="171" key="GridCell.Tab.0.left" timestamp="1607473803247">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state width="900" height="171" key="GridCell.Tab.0.left/0.23.1280.729@0.23.1280.729" timestamp="1607459691411" />
+    <state width="900" height="171" key="GridCell.Tab.0.left/0.23.1280.730@0.23.1280.730" timestamp="1607473803247" />
+    <state width="900" height="171" key="GridCell.Tab.0.right" timestamp="1607473803249">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state width="900" height="171" key="GridCell.Tab.0.right/0.23.1280.729@0.23.1280.729" timestamp="1607459691414" />
+    <state width="900" height="171" key="GridCell.Tab.0.right/0.23.1280.730@0.23.1280.730" timestamp="1607473803249" />
     <state x="395" y="82" key="MultipleFileMergeDialog" timestamp="1600444625338">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="395" y="82" key="MultipleFileMergeDialog/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1600444625338" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1595439176400">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="355" y="135" width="925" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1607459581845">
+      <screen x="0" y="23" width="1280" height="729" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1595439176400" />
+    <state x="355" y="135" width="925" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1280.729@0.23.1280.729" timestamp="1607459581845" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
